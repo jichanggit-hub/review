@@ -6,7 +6,7 @@
 
 不接受付费排名 · 联盟关系公开披露 · 数据持续更新
 
-`最后更新：2026-08-12`
+`最后更新：2026-09-26`
 
 </div>
 
@@ -36,8 +36,9 @@
 | 🥉 | **闪跃** | ¥8/月 · 5GB | IPLC 纯专线，**¥8 小包试错门槛最低**，AI 全解锁 | `shanyue` | ⭐⭐⭐⭐⭐ 4.7 | **[立即购买](https://work01.flashleapaff.com/#/?code=kMf9cPrN)** |
 | 4 | **Firefly** | ¥25/月 · 150GB | IPLC + VLESS，**8 年团队**，免翻墙访问官网 | `firefly` | ⭐⭐⭐⭐⭐ 4.6 | **[立即购买](https://umi.fireflychat.net)** |
 | 5 | **星岛梦** | ¥8/月起（年付） | **2020 年六年老牌**，企业级内网专线，AI 专用节点 | `nmw888` | ⭐⭐⭐⭐☆ 4.5 | **[立即购买](https://kfccbb.xingdaomeng.com/#/?code=DATAHVHs)** |
-| 6 | **唯兔云** | ¥14.9/月 · 100GB | 全 IPLC，**63 节点覆盖 8 大地区**，三网优化 | `rabbit` | ⭐⭐⭐⭐☆ 4.4 | **[立即购买](https://fast.v2yunvipaff.com/#/?code=FGETH51Z)** |
-| 7 | **飞猫云** | ¥7/月起（年付） | IEPL 专线，**学生版折合 ¥7/月**，AI 全解锁 | `flycat888` | ⭐⭐⭐⭐☆ 4.3 | **[立即购买](https://flycat1.flycatvipaff.cc/#/?code=2WjSgNW2)** |
+| 6 | **微风网络** | ¥11.4/月起（年付） | 港区 15 节点速度最整齐，**入门档 ¥0.114/GB 为表内最低** | — | ⭐⭐⭐⭐☆ 4.5 | **[前往官网](https://getdocs.breezenetttt.sbs/#/register)** |
+| 7 | **唯兔云** | ¥14.9/月 · 100GB | 全 IPLC，**63 节点覆盖 8 大地区**，三网优化 | `rabbit` | ⭐⭐⭐⭐☆ 4.4 | **[立即购买](https://fast.v2yunvipaff.com/#/?code=FGETH51Z)** |
+| 8 | **飞猫云** | ¥7/月起（年付） | IEPL 专线，**学生版折合 ¥7/月**，AI 全解锁 | `flycat888` | ⭐⭐⭐⭐☆ 4.3 | **[立即购买](https://flycat1.flycatvipaff.cc/#/?code=2WjSgNW2)** |
 
 <details>
 <summary><b>📖 点开看：每家的详细口径与短评</b></summary>
@@ -81,14 +82,22 @@
 - **价格**：年付小包折合 **¥8/月**；套餐种类多，完整价格见官网
 - 👉 [完整评测](https://jichanggithub.com/airports/xingdaomeng/) ｜ [**立即购买**](https://kfccbb.xingdaomeng.com/#/?code=DATAHVHs)
 
-### 6️⃣ 唯兔云 — 地区覆盖最广
+### 6️⃣ 微风网络 — 港区最整齐、每 GB 最低
+- **线路**：官方未标注线路类型 · VLESS 协议 · 50 节点（港 15 / 日 10 / 新 10 / 美 10 / 台 5）
+- **报告**：运营方 MiaoKo 报告（2026-07-19，珠海联通 9Gbps 测试机）——香港 15 节点平均 469–546 MB/s，**节点间波动是五区里最小的**，全部 FullCone；新加坡 TLS 延迟 78–96ms 为五区最低
+- **解锁**：50/50 节点 YouTube / Netflix / Disney+ 全解锁，且各节点解锁其所在地区片库
+- **价格**：清风年付 ¥137（100GB/月，折合 **¥11.4/月**）· 乘风 ¥27/200GB · 破风 ¥57/500GB · 御风 ¥127/1200GB（三年付约 ¥76/月）；另有信风 ¥200/270GB、长风 ¥370/570GB 两档一次性不限时包
+- **注意**：美国 10 节点平均仅 10–21 MB/s 是五区最弱，跨美业务别选；官方未公开成立时间与线路类型；**无优惠码**
+- 👉 [完整评测](https://jichanggithub.com/airports/weifeng/) ｜ [**前往官网**](https://getdocs.breezenetttt.sbs/#/register)
+
+### 7️⃣ 唯兔云 — 地区覆盖最广
 - **线路**：全 IPLC · 三网优化 · 智能负载均衡 · 2020 年开站
 - **覆盖**：63 节点，含香港/台湾/日本/新加坡/美国/**德国/马来西亚/巴西**
 - **解锁**：Netflix / Hulu / HBO / Disney+ / ChatGPT / TikTok
 - **价格**：¥14.9/100GB · ¥29.9/200GB · ¥59.9/500GB · ¥119.9/1TB，另有永久不限时档
 - 👉 [完整评测](https://jichanggithub.com/airports/weitu-cloud/) ｜ [**立即购买**](https://fast.v2yunvipaff.com/#/?code=FGETH51Z)
 
-### 7️⃣ 飞猫云 — 学生党预算首选
+### 8️⃣ 飞猫云 — 学生党预算首选
 - **线路**：全节点 IEPL 专线（香港×20 / 日本×10 / 美国×10 等，57 节点）
 - **价格**：**学生版 ¥84/年 = 折合 ¥7/月**（50GB/月）· 星耀 ¥25/150GB 起
 - **解锁**：流媒体 + ChatGPT / Gemini / Claude 全解锁口径
@@ -114,6 +123,8 @@
 | 唯兔云 | `rabbit` | 9 折 | 新用户 | [前往](https://fast.v2yunvipaff.com/#/?code=FGETH51Z) |
 | 飞猫云 | `flycat888` | 8 折 | 新用户 · **季付以上** | [前往](https://flycat1.flycatvipaff.cc/#/?code=2WjSgNW2) |
 
+| 微风网络 | — | 无优惠码 | 标价即到手价 | [前往](https://getdocs.breezenetttt.sbs/#/register) |
+
 > 💡 **长期码只有一个**：跨界云的 `kuajie` 无期限、可重复使用，续费也能用——挂书签里不会失效。
 
 ---
@@ -122,12 +133,12 @@
 
 | 你的需求 | 首选 | 备选 | 为什么 |
 |---|---|---|---|
-| 🎮 **游戏加速** | [闪跃](https://work01.flashleapaff.com/#/?code=kMf9cPrN) | 一翻云 | IPLC 专线，延迟与抖动最优先 |
+| 🎮 **游戏加速** | [一翻云](https://wzjc.1flyunaff.cc/#/register?code=JSuuoEmO) | 闪跃 | 家宽实测香港 52ms，全站唯一有实测延迟数据 |
 | 🎬 **追剧 / Netflix** | [一翻云](https://wzjc.1flyunaff.cc/#/register?code=JSuuoEmO) | Firefly、闪跃 | 解锁最全，**独家 TVB/HBO** |
 | 🤖 **ChatGPT / Claude** | [跨界云](https://jichangyyd.kuajieaff.com/#/?code=xy06L37U) | 闪跃、Firefly、星岛梦 | IP 池干净，AI 专用节点 |
 | 💼 **办公 / 全天在线** | [Firefly](https://umi.fireflychat.net) | 一翻云、星岛梦 | 不限设备，客服响应快 |
 | 📱 **TikTok（轻度）** | [跨界云](https://jichangyyd.kuajieaff.com/#/?code=xy06L37U) | 唯兔云 | 报告口径 TikTok 可用 |
-| 💰 **极致性价比** | [跨界云](https://jichangyyd.kuajieaff.com/#/?code=xy06L37U) | 闪跃、飞猫云 | 每 GB 单价最低 |
+| 💰 **极致性价比** | [跨界云](https://jichangyyd.kuajieaff.com/#/?code=xy06L37U) | 微风网络、闪跃、飞猫云 | 券后单价最低；微风清风档 ¥0.114/GB 但只提供年付 |
 
 > ⚠️ **TikTok 运营提醒**：以上均为机房 IP，适合刷视频与轻度使用。**重度养号运营需要住宅 IP**，请自行验证 IP 类型后再上主力账号。
 
