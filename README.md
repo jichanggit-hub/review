@@ -35,10 +35,10 @@
 | 🥈 | **跨界云** | ¥20/月 · 120GB | IPLC 全 1 倍率，**每 GB 低至 ¥0.046**，TikTok 可用 | `kuajie` | ⭐⭐⭐⭐⭐ 4.8 | **[立即购买](https://jichangyyd.kuajieaff.com/#/?code=xy06L37U)** |
 | 🥉 | **闪跃** | ¥8/月 · 5GB | IPLC 纯专线，**¥8 小包试错门槛最低**，AI 全解锁 | `shanyue` | ⭐⭐⭐⭐⭐ 4.7 | **[立即购买](https://work01.flashleapaff.com/#/?code=kMf9cPrN)** |
 | 4 | **微风网络** | ¥11.4/月起（年付） | 港区 15 节点速度最整齐，**入门档 ¥0.114/GB 为表内最低** | — | ⭐⭐⭐⭐☆ 4.5 | **[立即购买](https://edp01.breezenetaff.com/#/?code=mMbkSXpO)** |
-| 5 | **Firefly** | ¥25/月 · 150GB | IPLC + VLESS，**8 年团队**，免翻墙访问官网 | `firefly` | ⭐⭐⭐⭐⭐ 4.6 | **[立即购买](https://umi.fireflychat.net)** |
-| 6 | **星岛梦** | ¥8/月起（年付） | **2020 年六年老牌**，企业级内网专线，AI 专用节点 | `nmw888` | ⭐⭐⭐⭐☆ 4.5 | **[立即购买](https://kfccbb.xingdaomeng.com/#/?code=DATAHVHs)** |
-| 7 | **唯兔云** | ¥14.9/月 · 100GB | 全 IPLC，**63 节点覆盖 8 大地区**，三网优化 | `rabbit` | ⭐⭐⭐⭐☆ 4.4 | **[立即购买](https://fast.v2yunvipaff.com/#/?code=FGETH51Z)** |
-| 8 | **飞猫云** | ¥7/月起（年付） | IEPL 专线，**学生版折合 ¥7/月**，AI 全解锁 | `flycat888` | ⭐⭐⭐⭐☆ 4.3 | **[立即购买](https://flycat1.flycatvipaff.cc/#/?code=2WjSgNW2)** |
+| 5 | **飞猫云** | ¥7/月起（年付） | IEPL 专线，**学生版折合 ¥7/月**，AI 全解锁 | `flycat888` | ⭐⭐⭐⭐☆ 4.3 | **[立即购买](https://flycat1.flycatvipaff.cc/#/?code=2WjSgNW2)** |
+| 6 | **Firefly** | ¥25/月 · 150GB | IPLC + VLESS，**8 年团队**，免翻墙访问官网 | `firefly` | ⭐⭐⭐⭐⭐ 4.6 | **[立即购买](https://umi.fireflychat.net)** |
+| 7 | **星岛梦** | ¥8/月起（年付） | **2020 年六年老牌**，企业级内网专线，AI 专用节点 | `nmw888` | ⭐⭐⭐⭐☆ 4.5 | **[立即购买](https://kfccbb.xingdaomeng.com/#/?code=DATAHVHs)** |
+| 8 | **唯兔云** | ¥14.9/月 · 100GB | 全 IPLC，**63 节点覆盖 8 大地区**，三网优化 | `rabbit` | ⭐⭐⭐⭐☆ 4.4 | **[立即购买](https://fast.v2yunvipaff.com/#/?code=FGETH51Z)** |
 
 <details>
 <summary><b>📖 点开看：每家的详细口径与短评</b></summary>
@@ -76,34 +76,35 @@
 - **注意**：美国 10 节点平均仅 10–21 MB/s 是五区最弱，跨美业务别选；官方未公开成立时间与线路类型；**无优惠码**
 - 👉 [完整评测](https://jichanggithub.com/airports/weifeng/) ｜ [**前往官网**](https://edp01.breezenetaff.com/#/?code=mMbkSXpO)
 
-### 5️⃣ Firefly — 办公与 AI 稳定党
-- **线路**：IPLC 专线 · VLESS · 不限速不限设备数
-- **亮点**：运营团队 8 年行业经验、海外技术团队维护、**免翻墙访问官网**、支持企业定制
-- **报告**：2026-07-18 晚高峰 50 节点，流媒体解锁 50/50 通过
-- **价格**：¥25/150GB · ¥45/300GB · ¥85/600GB · ¥150/1000GB · 年付版折合 ¥8/月
-- 👉 [完整评测](https://jichanggithub.com/airports/firefly/) ｜ [**立即购买**](https://umi.fireflychat.net)
-
-### 6️⃣ 星岛梦 — 六年老牌的资历
-- **线路**：企业级内网专线 · 65+ 节点 · 日本 BGP 原生落地
-- **亮点**：**2020 年开站，运营 6 年**（机场行业里罕见）；设有 GPT/Gemini/AI 全解锁专用节点；支持不限时套餐
-- **报告**：香港分区平均 280–430MB/s（9Gbps 测试机口径）
-- **价格**：年付小包折合 **¥8/月**；套餐种类多，完整价格见官网
-- 👉 [完整评测](https://jichanggithub.com/airports/xingdaomeng/) ｜ [**立即购买**](https://kfccbb.xingdaomeng.com/#/?code=DATAHVHs)
-
-### 7️⃣ 唯兔云 — 地区覆盖最广
-- **线路**：全 IPLC · 三网优化 · 智能负载均衡 · 2020 年开站
-- **覆盖**：63 节点，含香港/台湾/日本/新加坡/美国/**德国/马来西亚/巴西**
-- **解锁**：Netflix / Hulu / HBO / Disney+ / ChatGPT / TikTok
-- **价格**：¥14.9/100GB · ¥29.9/200GB · ¥59.9/500GB · ¥119.9/1TB，另有永久不限时档
-- 👉 [完整评测](https://jichanggithub.com/airports/weitu-cloud/) ｜ [**立即购买**](https://fast.v2yunvipaff.com/#/?code=FGETH51Z)
-
-### 8️⃣ 飞猫云 — 学生党预算首选
+### 5️⃣ 飞猫云 — 学生党预算首选
 - **线路**：全节点 IEPL 专线（香港×20 / 日本×10 / 美国×10 等，57 节点）
 - **价格**：**学生版 ¥84/年 = 折合 ¥7/月**（50GB/月）· 星耀 ¥25/150GB 起
 - **解锁**：流媒体 + ChatGPT / Gemini / Claude 全解锁口径
 - **优惠码**：`flycat888` 新用户**季付以上** 8 折
 - **注意**：订阅导入需联系在线客服
 - 👉 [完整评测](https://jichanggithub.com/airports/feimao-cloud/) ｜ [**立即购买**](https://flycat1.flycatvipaff.cc/#/?code=2WjSgNW2)
+
+### 6️⃣ Firefly — 办公与 AI 稳定党
+- **线路**：IPLC 专线 · VLESS · 不限速不限设备数
+- **亮点**：运营团队 8 年行业经验、海外技术团队维护、**免翻墙访问官网**、支持企业定制
+- **报告**：2026-07-18 晚高峰 50 节点，流媒体解锁 50/50 通过
+- **价格**：¥25/150GB · ¥45/300GB · ¥85/600GB · ¥150/1000GB · 年付版折合 ¥8/月
+- 👉 [完整评测](https://jichanggithub.com/airports/firefly/) ｜ [**立即购买**](https://umi.fireflychat.net)
+
+### 7️⃣ 星岛梦 — 六年老牌的资历
+- **线路**：企业级内网专线 · 65+ 节点 · 日本 BGP 原生落地
+- **亮点**：**2020 年开站，运营 6 年**（机场行业里罕见）；设有 GPT/Gemini/AI 全解锁专用节点；支持不限时套餐
+- **报告**：香港分区平均 280–430MB/s（9Gbps 测试机口径）
+- **价格**：年付小包折合 **¥8/月**；套餐种类多，完整价格见官网
+- 👉 [完整评测](https://jichanggithub.com/airports/xingdaomeng/) ｜ [**立即购买**](https://kfccbb.xingdaomeng.com/#/?code=DATAHVHs)
+
+### 8️⃣ 唯兔云 — 地区覆盖最广
+- **线路**：全 IPLC · 三网优化 · 智能负载均衡 · 2020 年开站
+- **覆盖**：63 节点，含香港/台湾/日本/新加坡/美国/**德国/马来西亚/巴西**
+- **解锁**：Netflix / Hulu / HBO / Disney+ / ChatGPT / TikTok
+- **价格**：¥14.9/100GB · ¥29.9/200GB · ¥59.9/500GB · ¥119.9/1TB，另有永久不限时档
+- 👉 [完整评测](https://jichanggithub.com/airports/weitu-cloud/) ｜ [**立即购买**](https://fast.v2yunvipaff.com/#/?code=FGETH51Z)
+
 
 </details>
 
