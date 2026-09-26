@@ -34,9 +34,9 @@
 | 🥇 | **一翻云** | ¥20/月 · 150GB | 全站 IEPL 专线，**TVB/HBO 稀缺解锁**，不限设备 | `1FLYYUN` | ⭐⭐⭐⭐⭐ 4.9 | **[立即购买](https://wzjc.1flyunaff.cc/#/register?code=JSuuoEmO)** |
 | 🥈 | **跨界云** | ¥20/月 · 120GB | IPLC 全 1 倍率，**每 GB 低至 ¥0.046**，TikTok 可用 | `kuajie` | ⭐⭐⭐⭐⭐ 4.8 | **[立即购买](https://jichangyyd.kuajieaff.com/#/?code=xy06L37U)** |
 | 🥉 | **闪跃** | ¥8/月 · 5GB | IPLC 纯专线，**¥8 小包试错门槛最低**，AI 全解锁 | `shanyue` | ⭐⭐⭐⭐⭐ 4.7 | **[立即购买](https://work01.flashleapaff.com/#/?code=kMf9cPrN)** |
-| 4 | **Firefly** | ¥25/月 · 150GB | IPLC + VLESS，**8 年团队**，免翻墙访问官网 | `firefly` | ⭐⭐⭐⭐⭐ 4.6 | **[立即购买](https://umi.fireflychat.net)** |
-| 5 | **星岛梦** | ¥8/月起（年付） | **2020 年六年老牌**，企业级内网专线，AI 专用节点 | `nmw888` | ⭐⭐⭐⭐☆ 4.5 | **[立即购买](https://kfccbb.xingdaomeng.com/#/?code=DATAHVHs)** |
-| 6 | **微风网络** | ¥11.4/月起（年付） | 港区 15 节点速度最整齐，**入门档 ¥0.114/GB 为表内最低** | — | ⭐⭐⭐⭐☆ 4.5 | **[前往官网](https://getdocs.breezenetttt.sbs/#/register)** |
+| 4 | **微风网络** | ¥11.4/月起（年付） | 港区 15 节点速度最整齐，**入门档 ¥0.114/GB 为表内最低** | — | ⭐⭐⭐⭐☆ 4.5 | **[立即购买](https://edp01.breezenetaff.com/#/?code=mMbkSXpO)** |
+| 5 | **Firefly** | ¥25/月 · 150GB | IPLC + VLESS，**8 年团队**，免翻墙访问官网 | `firefly` | ⭐⭐⭐⭐⭐ 4.6 | **[立即购买](https://umi.fireflychat.net)** |
+| 6 | **星岛梦** | ¥8/月起（年付） | **2020 年六年老牌**，企业级内网专线，AI 专用节点 | `nmw888` | ⭐⭐⭐⭐☆ 4.5 | **[立即购买](https://kfccbb.xingdaomeng.com/#/?code=DATAHVHs)** |
 | 7 | **唯兔云** | ¥14.9/月 · 100GB | 全 IPLC，**63 节点覆盖 8 大地区**，三网优化 | `rabbit` | ⭐⭐⭐⭐☆ 4.4 | **[立即购买](https://fast.v2yunvipaff.com/#/?code=FGETH51Z)** |
 | 8 | **飞猫云** | ¥7/月起（年付） | IEPL 专线，**学生版折合 ¥7/月**，AI 全解锁 | `flycat888` | ⭐⭐⭐⭐☆ 4.3 | **[立即购买](https://flycat1.flycatvipaff.cc/#/?code=2WjSgNW2)** |
 
@@ -68,27 +68,27 @@
 - **优惠码**：`shanyue` 8 折，**每人限用 1 次**
 - 👉 [完整评测](https://jichanggithub.com/airports/shanyue/) ｜ [**立即购买**](https://work01.flashleapaff.com/#/?code=kMf9cPrN)
 
-### 4️⃣ Firefly — 办公与 AI 稳定党
+### 4️⃣ 微风网络 — 港区最整齐、入门档单价最低
+- **线路**：官方未标注线路类型 · VLESS 协议 · 50 节点（港 15 / 日 10 / 新 10 / 美 10 / 台 5）
+- **报告**：运营方 MiaoKo 报告（2026-07-19，珠海联通 9Gbps 测试机）——香港 15 节点平均 469–546 MB/s，**节点间波动是五区里最小的**，全部 FullCone；新加坡 TLS 延迟 78–96ms 为五区最低
+- **解锁**：50/50 节点 YouTube / Netflix / Disney+ 全解锁，且各节点解锁其所在地区片库
+- **价格**：清风年付 ¥137（100GB/月，折合 **¥11.4/月**）· 乘风 ¥27/200GB · 破风 ¥57/500GB · 御风 ¥127/1200GB（三年付约 ¥76/月）；另有信风 ¥200/270GB、长风 ¥370/570GB 两档一次性不限时包
+- **注意**：美国 10 节点平均仅 10–21 MB/s 是五区最弱，跨美业务别选；官方未公开成立时间与线路类型；**无优惠码**
+- 👉 [完整评测](https://jichanggithub.com/airports/weifeng/) ｜ [**前往官网**](https://edp01.breezenetaff.com/#/?code=mMbkSXpO)
+
+### 5️⃣ Firefly — 办公与 AI 稳定党
 - **线路**：IPLC 专线 · VLESS · 不限速不限设备数
 - **亮点**：运营团队 8 年行业经验、海外技术团队维护、**免翻墙访问官网**、支持企业定制
 - **报告**：2026-07-18 晚高峰 50 节点，流媒体解锁 50/50 通过
 - **价格**：¥25/150GB · ¥45/300GB · ¥85/600GB · ¥150/1000GB · 年付版折合 ¥8/月
 - 👉 [完整评测](https://jichanggithub.com/airports/firefly/) ｜ [**立即购买**](https://umi.fireflychat.net)
 
-### 5️⃣ 星岛梦 — 六年老牌的资历
+### 6️⃣ 星岛梦 — 六年老牌的资历
 - **线路**：企业级内网专线 · 65+ 节点 · 日本 BGP 原生落地
 - **亮点**：**2020 年开站，运营 6 年**（机场行业里罕见）；设有 GPT/Gemini/AI 全解锁专用节点；支持不限时套餐
 - **报告**：香港分区平均 280–430MB/s（9Gbps 测试机口径）
 - **价格**：年付小包折合 **¥8/月**；套餐种类多，完整价格见官网
 - 👉 [完整评测](https://jichanggithub.com/airports/xingdaomeng/) ｜ [**立即购买**](https://kfccbb.xingdaomeng.com/#/?code=DATAHVHs)
-
-### 6️⃣ 微风网络 — 港区最整齐、每 GB 最低
-- **线路**：官方未标注线路类型 · VLESS 协议 · 50 节点（港 15 / 日 10 / 新 10 / 美 10 / 台 5）
-- **报告**：运营方 MiaoKo 报告（2026-07-19，珠海联通 9Gbps 测试机）——香港 15 节点平均 469–546 MB/s，**节点间波动是五区里最小的**，全部 FullCone；新加坡 TLS 延迟 78–96ms 为五区最低
-- **解锁**：50/50 节点 YouTube / Netflix / Disney+ 全解锁，且各节点解锁其所在地区片库
-- **价格**：清风年付 ¥137（100GB/月，折合 **¥11.4/月**）· 乘风 ¥27/200GB · 破风 ¥57/500GB · 御风 ¥127/1200GB（三年付约 ¥76/月）；另有信风 ¥200/270GB、长风 ¥370/570GB 两档一次性不限时包
-- **注意**：美国 10 节点平均仅 10–21 MB/s 是五区最弱，跨美业务别选；官方未公开成立时间与线路类型；**无优惠码**
-- 👉 [完整评测](https://jichanggithub.com/airports/weifeng/) ｜ [**前往官网**](https://getdocs.breezenetttt.sbs/#/register)
 
 ### 7️⃣ 唯兔云 — 地区覆盖最广
 - **线路**：全 IPLC · 三网优化 · 智能负载均衡 · 2020 年开站
@@ -123,7 +123,7 @@
 | 唯兔云 | `rabbit` | 9 折 | 新用户 | [前往](https://fast.v2yunvipaff.com/#/?code=FGETH51Z) |
 | 飞猫云 | `flycat888` | 8 折 | 新用户 · **季付以上** | [前往](https://flycat1.flycatvipaff.cc/#/?code=2WjSgNW2) |
 
-| 微风网络 | — | 无优惠码 | 标价即到手价 | [前往](https://getdocs.breezenetttt.sbs/#/register) |
+| 微风网络 | — | 无优惠码 | 标价即到手价 | [前往](https://edp01.breezenetaff.com/#/?code=mMbkSXpO) |
 
 > 💡 **长期码只有一个**：跨界云的 `kuajie` 无期限、可重复使用，续费也能用——挂书签里不会失效。
 
