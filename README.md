@@ -26,46 +26,46 @@
 
 ## 📊 排行速查表
 
-> 前 7 位为合作推荐位，第 8 位起每月轮换（本轮 2026-11）。评分按六维权重独立给出，不随排位调整，想按评分挑直接看「评分」列。
-> 起价是最低月均价（年付档已折算），「待测」表示本站尚未实测，线路与解锁为官方标称。
+> 前 7 位为合作推荐位，第 8 位起每月轮换（本轮 2026-11）。除主推的一翻云由编辑给分外，评分都按六维权重算出，不随排位调整，想按评分挑直接看「评分」列。
+> 起价是最低月均价（年付档已折算），「待测」表示还没有测速报告，分数偏低多半是缺数据，线路与解锁为官方标称。
 > **点击「立即购买」直达官网，结算页填入优惠码即可享折扣。**
 
-| # | 机场 | 月均起价 | 线路 | 优惠码 | 评分 | 实测 | 购买 |
+| # | 机场 | 月均起价 | 线路 | 优惠码 | 评分 | 测速报告 | 购买 |
 |:-:|---|---|---|:-:|---|:-:|:-:|
 | 🥇 | [**一翻云**](https://jichanggithub.com/airports/yifan-cloud/) | ¥20 起 | IEPL专线 | `1FLYYUN` | ⭐⭐⭐⭐⭐ 4.9 | ✅ | **[立即购买](https://wzjc.1flyunaff.cc/#/register?code=JSuuoEmO)** |
-| 🥈 | [**飞猫云**](https://jichanggithub.com/airports/feimao-cloud/) | ¥7 起 | IEPL专线 | `flycat888` | ⭐⭐⭐⭐⭐ 4.6 | ✅ | **[立即购买](https://flycat1.flycatvipaff.cc/#/?code=2WjSgNW2)** |
-| 🥉 | [**暮光加速**](https://jichanggithub.com/airports/muguang/) | ¥9.08 起 | BGP+专线 | `mm88` | ⭐⭐⭐⭐ 4.1 | 待测 | **[立即购买](https://varnexa.twilightaff.com/#/?code=LiZd1DFa)** |
-| 4 | [**微风网络**](https://jichanggithub.com/airports/weifeng/) | ¥11.4 起 | 官方未标注 | — | ⭐⭐⭐⭐⭐ 4.6 | 待测 | **[立即购买](https://edp01.breezenetaff.com/#/?code=mMbkSXpO)** |
-| 5 | [**大佬云**](https://jichanggithub.com/airports/dalao-cloud/) | ¥8 起 | 官方未标注 | `dly888` | ⭐⭐⭐⭐ 4.0 | 待测 | **[立即购买](https://liu01.dalaoyunaff.com/#/?code=9f4rfwcE)** |
-| 6 | [**闪跃**](https://jichanggithub.com/airports/shanyue/) | ¥8 起 | IPLC专线 | `shanyue` | ⭐⭐⭐⭐⭐ 4.7 | ✅ | **[立即购买](https://work01.flashleapaff.com/#/?code=kMf9cPrN)** |
-| 7 | [**跨界云**](https://jichanggithub.com/airports/kuajie-cloud/) | ¥20 起 | IPLC专线 | `kuajie` | ⭐⭐⭐⭐⭐ 4.8 | ✅ | **[立即购买](https://jichangyyd.kuajieaff.com/#/?code=xy06L37U)** |
-| 8 | [**无忧机场**](https://jichanggithub.com/airports/wuyou/) | ¥6.58 起 | 官方未标注 | — | ⭐⭐⭐⭐ 4.0 | 待测 | **[立即购买](https://wep01.worryfreeaff.com/#/?code=UfOPmZeS)** |
-| 9 | [**梯子云**](https://jichanggithub.com/airports/tizi-cloud/) | ¥7.42 起 | IEPL专线 | — | ⭐⭐⭐⭐ 4.1 | 待测 | **[立即购买](https://varnexa.ladderaff.com/#/?code=0sdBdspN)** |
-| 10 | [**极连云**](https://jichanggithub.com/airports/jilian-cloud/) | ¥8 起 | IPLC专线 | `JILIAN666` | ⭐⭐⭐⭐ 4.1 | 待测 | **[立即购买](https://kdjhao.jlyvipaff.com/#/?code=iVjSy3ku)** |
-| 11 | [**云界线**](https://jichanggithub.com/airports/yunjiexian/) | ¥8 起 | 官方未标注 | — | ⭐⭐⭐⭐ 4.0 | 待测 | **[立即购买](https://a01vipaff.yunjiexianaff.com/#/?code=wPsDLPlW)** |
-| 12 | [**EdgeNova边缘节点**](https://jichanggithub.com/airports/edgenova/) | ¥9 起 | 官方未标注 | `EDGE888` | ⭐⭐⭐⭐ 4.0 | 待测 | **[立即购买](https://work.edgenovaaff.cc/#/register?code=OACbYE7B)** |
-| 13 | [**浪网**](https://jichanggithub.com/airports/langwang/) | ¥9.92 起 | IEPL专线 | — | ⭐⭐⭐⭐ 4.1 | 待测 | **[立即购买](https://varnexa.wavenetaff.com/#/?code=wQpkPA5g)** |
-| 14 | [**星岛梦**](https://jichanggithub.com/airports/xingdaomeng/) | ¥8 起 | 企业级内网专线 | `nmw888` | ⭐⭐⭐⭐⭐ 4.5 | ✅ | **[立即购买](https://kfccbb.xingdaomeng.com/#/?code=DATAHVHs)** |
-| 15 | [**飞V**](https://jichanggithub.com/airports/feiv/) | ¥8.25 起 | IEPL专线 | — | ⭐⭐⭐⭐ 4.1 | 待测 | **[立即购买](https://varnexa.flyvaff.com/#/?code=gWuQPvnH)** |
-| 16 | [**快狸**](https://jichanggithub.com/airports/kuaili/) | ¥10 起 | 官方未标注 | `KL888` | ⭐⭐⭐⭐ 4.0 | 待测 | **[立即购买](https://work.kuailicloud.cc/#/register?code=oWy2AO9F)** |
-| 17 | [**U1S1**](https://jichanggithub.com/airports/u1s1/) | ¥8 起 | BGP优化+IEPL | `U1S1888` | ⭐⭐⭐⭐ 4.0 | 待测 | **[立即购买](https://pkdj7.vipaff.cc/#/?code=gm8PBddk)** |
-| 18 | [**唯兔云**](https://jichanggithub.com/airports/weitu-cloud/) | ¥14.9 起 | IPLC专线 | `rabbit` | ⭐⭐⭐⭐ 4.4 | ✅ | **[立即购买](https://fast.v2yunvipaff.com/#/?code=FGETH51Z)** |
-| 19 | [**光年梯**](https://jichanggithub.com/airports/guangnianti/) | ¥7.4 起 | IPLC专线 | `GN888` | ⭐⭐⭐⭐ 4.1 | 待测 | **[立即购买](https://ggmq.gntaff.com/#/?code=TD4zCE4v)** |
-| 20 | [**环球梯**](https://jichanggithub.com/airports/huanqiuti/) | ¥8 起 | 官方未标注 | — | ⭐⭐⭐⭐ 4.0 | 待测 | **[立即购买](https://a01vipaff.huanqiutiaff.com/#/?code=yCQJnt7Y)** |
-| 21 | [**速界**](https://jichanggithub.com/airports/sujie/) | ¥7.5 起 | 官方未标注 | `SJ888` | ⭐⭐⭐⭐ 4.0 | 待测 | **[立即购买](https://work.speedworldaff.cc/#/register?code=3jebW7BH)** |
-| 22 | [**榴莲云**](https://jichanggithub.com/airports/liulian-cloud/) | ¥8 起 | 官方未标注 | — | ⭐⭐⭐⭐ 4.0 | 待测 | **[立即购买](https://a01vipaff.liulianyunaff.com/#/?code=vBr8pbPE)** |
-| 23 | [**全球云**](https://jichanggithub.com/airports/quanqiu-cloud/) | ¥8.25 起 | BGP多线 | `QQ888` | ⭐⭐⭐⭐ 4.0 | 待测 | **[立即购买](https://sswdh.gcvipaff.com/#/?code=ptPZMzHO)** |
-| 24 | [**隐形人**](https://jichanggithub.com/airports/yinxingren/) | ¥9.08 起 | IEPL专线 | — | ⭐⭐⭐⭐ 4.1 | 待测 | **[立即购买](https://varnexa.invisibleaff.com/#/?code=PY2KLcTo)** |
-| 25 | [**光速云**](https://jichanggithub.com/airports/guangsu-cloud/) | ¥8.25 起 | IPLC专线 | `GSY888` | ⭐⭐⭐⭐ 4.2 | 待测 | **[立即购买](https://mdlky.gsyaff.com/#/?code=lQiSJled)** |
-| 26 | [**Sogo云**](https://jichanggithub.com/airports/sogo-cloud/) | ¥8.17 起 | 专线 | `SOGO888` | ⭐⭐⭐⭐ 4.1 | 待测 | **[立即购买](https://wzjc.sogoyunaff.cc/#/login?code=E88FmzZ1)** |
-| 27 | [**神行加速**](https://jichanggithub.com/airports/shenxing/) | ¥8 起 | 官方未标注 | — | ⭐⭐⭐⭐ 4.0 | 待测 | **[立即购买](https://a01vipaff.shenxingaff.com/#/?code=WJtZY7Gw)** |
-| 28 | [**灵动云**](https://jichanggithub.com/airports/lingdong-cloud/) | ¥8.25 起 | IEPL专线 | — | ⭐⭐⭐⭐ 4.1 | 待测 | **[立即购买](https://varnexa.lingdongaff.com/#/?code=GvxuWp6C)** |
-| 29 | [**可信云**](https://jichanggithub.com/airports/kexin-cloud/) | ¥8 起 | IEPL专线 | `KX888` | ⭐⭐⭐⭐ 4.1 | 待测 | **[立即购买](https://work.kosingaff.com/#/register?code=6PqaK0c5)** |
-| 30 | [**Firefly**](https://jichanggithub.com/airports/firefly/) | ¥25 起 | IPLC专线 | `firefly` | ⭐⭐⭐⭐⭐ 4.6 | ✅ | **[立即购买](https://wep01.fireflyaff.com/#/?code=tVs0jv7h)** |
-| 31 | [**灵猫**](https://jichanggithub.com/airports/lingmao/) | ¥7.08 起 | 官方未标注 | — | ⭐⭐⭐⭐ 4.0 | 待测 | **[立即购买](https://vip02.civetaff.com/#/?code=4uGIyOGG)** |
-| 32 | [**宇宙云**](https://jichanggithub.com/airports/yuzhou-cloud/) | ¥8 起 | IEPL/IPLC | `YUZHOU553` | ⭐⭐⭐⭐ 4.1 | 待测 | **[立即购买](https://wzjc.yuzoucloud.cc/#/register?code=wosXpe6G)** |
-| 33 | [**二猫云**](https://jichanggithub.com/airports/ermao-cloud/) | ¥7.4 起 | 官方未标注 | `ERMAO888` | ⭐⭐⭐⭐ 4.2 | 待测 | **[立即购买](https://wzjc.2maoyunaff.cc/#/register?code=KDo1GROz)** |
-| 34 | [**闪电鼠**](https://jichanggithub.com/airports/shandianshu/) | ¥8 起 | 官方未标注 | — | ⭐⭐⭐⭐ 4.0 | 待测 | **[立即购买](https://a01vipaff.shandianshuaff.com/#/?code=ka7gAQDt)** |
+| 🥈 | [**飞猫云**](https://jichanggithub.com/airports/feimao-cloud/) | ¥7 起 | IEPL专线 | `flycat888` | ⭐⭐⭐⭐ 4.0 | ✅ | **[立即购买](https://flycat1.flycatvipaff.cc/#/?code=2WjSgNW2)** |
+| 🥉 | [**暮光加速**](https://jichanggithub.com/airports/muguang/) | ¥9.08 起 | BGP+专线 | `mm88` | ⭐⭐⭐ 2.9 | 待测 | **[立即购买](https://varnexa.twilightaff.com/#/?code=LiZd1DFa)** |
+| 4 | [**微风网络**](https://jichanggithub.com/airports/weifeng/) | ¥11.4 起 | 官方未标注 | — | ⭐⭐⭐⭐ 4.2 | 待测 | **[立即购买](https://edp01.breezenetaff.com/#/?code=mMbkSXpO)** |
+| 5 | [**大佬云**](https://jichanggithub.com/airports/dalao-cloud/) | ¥8 起 | 官方未标注 | `dly888` | ⭐⭐⭐ 2.8 | 待测 | **[立即购买](https://liu01.dalaoyunaff.com/#/?code=9f4rfwcE)** |
+| 6 | [**闪跃**](https://jichanggithub.com/airports/shanyue/) | ¥8 起 | IPLC专线 | `shanyue` | ⭐⭐⭐⭐ 4.2 | ✅ | **[立即购买](https://work01.flashleapaff.com/#/?code=kMf9cPrN)** |
+| 7 | [**跨界云**](https://jichanggithub.com/airports/kuajie-cloud/) | ¥20 起 | IPLC专线 | `kuajie` | ⭐⭐⭐⭐ 4.2 | ✅ | **[立即购买](https://jichangyyd.kuajieaff.com/#/?code=xy06L37U)** |
+| 8 | [**无忧机场**](https://jichanggithub.com/airports/wuyou/) | ¥6.58 起 | 官方未标注 | — | ⭐⭐⭐ 2.8 | 待测 | **[立即购买](https://wep01.worryfreeaff.com/#/?code=UfOPmZeS)** |
+| 9 | [**梯子云**](https://jichanggithub.com/airports/tizi-cloud/) | ¥7.42 起 | IEPL专线 | — | ⭐⭐⭐ 2.9 | 待测 | **[立即购买](https://varnexa.ladderaff.com/#/?code=0sdBdspN)** |
+| 10 | [**极连云**](https://jichanggithub.com/airports/jilian-cloud/) | ¥8 起 | IPLC专线 | `JILIAN666` | ⭐⭐⭐ 2.9 | 待测 | **[立即购买](https://kdjhao.jlyvipaff.com/#/?code=iVjSy3ku)** |
+| 11 | [**云界线**](https://jichanggithub.com/airports/yunjiexian/) | ¥8 起 | 官方未标注 | — | ⭐⭐⭐ 2.8 | 待测 | **[立即购买](https://a01vipaff.yunjiexianaff.com/#/?code=wPsDLPlW)** |
+| 12 | [**EdgeNova边缘节点**](https://jichanggithub.com/airports/edgenova/) | ¥9 起 | 官方未标注 | `EDGE888` | ⭐⭐⭐ 2.7 | 待测 | **[立即购买](https://work.edgenovaaff.cc/#/register?code=OACbYE7B)** |
+| 13 | [**浪网**](https://jichanggithub.com/airports/langwang/) | ¥9.92 起 | IEPL专线 | — | ⭐⭐⭐ 2.9 | 待测 | **[立即购买](https://varnexa.wavenetaff.com/#/?code=wQpkPA5g)** |
+| 14 | [**星岛梦**](https://jichanggithub.com/airports/xingdaomeng/) | ¥8 起 | 企业级内网专线 | `nmw888` | ⭐⭐⭐⭐ 4.2 | ✅ | **[立即购买](https://kfccbb.xingdaomeng.com/#/?code=DATAHVHs)** |
+| 15 | [**飞V**](https://jichanggithub.com/airports/feiv/) | ¥8.25 起 | IEPL专线 | — | ⭐⭐⭐ 2.9 | 待测 | **[立即购买](https://varnexa.flyvaff.com/#/?code=gWuQPvnH)** |
+| 16 | [**快狸**](https://jichanggithub.com/airports/kuaili/) | ¥10 起 | 官方未标注 | `KL888` | ⭐⭐⭐ 2.7 | 待测 | **[立即购买](https://work.kuailicloud.cc/#/register?code=oWy2AO9F)** |
+| 17 | [**U1S1**](https://jichanggithub.com/airports/u1s1/) | ¥8 起 | BGP优化+IEPL | `U1S1888` | ⭐⭐⭐ 2.7 | 待测 | **[立即购买](https://pkdj7.vipaff.cc/#/?code=gm8PBddk)** |
+| 18 | [**唯兔云**](https://jichanggithub.com/airports/weitu-cloud/) | ¥14.9 起 | IPLC专线 | `rabbit` | ⭐⭐⭐⭐ 4.1 | ✅ | **[立即购买](https://fast.v2yunvipaff.com/#/?code=FGETH51Z)** |
+| 19 | [**光年梯**](https://jichanggithub.com/airports/guangnianti/) | ¥7.4 起 | IPLC专线 | `GN888` | ⭐⭐⭐ 2.9 | 待测 | **[立即购买](https://ggmq.gntaff.com/#/?code=TD4zCE4v)** |
+| 20 | [**环球梯**](https://jichanggithub.com/airports/huanqiuti/) | ¥8 起 | 官方未标注 | — | ⭐⭐⭐ 2.8 | 待测 | **[立即购买](https://a01vipaff.huanqiutiaff.com/#/?code=yCQJnt7Y)** |
+| 21 | [**速界**](https://jichanggithub.com/airports/sujie/) | ¥7.5 起 | 官方未标注 | `SJ888` | ⭐⭐⭐ 2.7 | 待测 | **[立即购买](https://work.speedworldaff.cc/#/register?code=3jebW7BH)** |
+| 22 | [**榴莲云**](https://jichanggithub.com/airports/liulian-cloud/) | ¥8 起 | 官方未标注 | — | ⭐⭐⭐ 2.7 | 待测 | **[立即购买](https://a01vipaff.liulianyunaff.com/#/?code=vBr8pbPE)** |
+| 23 | [**全球云**](https://jichanggithub.com/airports/quanqiu-cloud/) | ¥8.25 起 | BGP多线 | `QQ888` | ⭐⭐⭐ 2.8 | 待测 | **[立即购买](https://sswdh.gcvipaff.com/#/?code=ptPZMzHO)** |
+| 24 | [**隐形人**](https://jichanggithub.com/airports/yinxingren/) | ¥9.08 起 | IEPL专线 | — | ⭐⭐⭐ 2.9 | 待测 | **[立即购买](https://varnexa.invisibleaff.com/#/?code=PY2KLcTo)** |
+| 25 | [**光速云**](https://jichanggithub.com/airports/guangsu-cloud/) | ¥8.25 起 | IPLC专线 | `GSY888` | ⭐⭐⭐ 3.2 | 待测 | **[立即购买](https://mdlky.gsyaff.com/#/?code=lQiSJled)** |
+| 26 | [**Sogo云**](https://jichanggithub.com/airports/sogo-cloud/) | ¥8.17 起 | 专线 | `SOGO888` | ⭐⭐⭐ 2.9 | 待测 | **[立即购买](https://wzjc.sogoyunaff.cc/#/login?code=E88FmzZ1)** |
+| 27 | [**神行加速**](https://jichanggithub.com/airports/shenxing/) | ¥8 起 | 官方未标注 | — | ⭐⭐⭐ 2.8 | 待测 | **[立即购买](https://a01vipaff.shenxingaff.com/#/?code=WJtZY7Gw)** |
+| 28 | [**灵动云**](https://jichanggithub.com/airports/lingdong-cloud/) | ¥8.25 起 | IEPL专线 | — | ⭐⭐⭐ 2.9 | 待测 | **[立即购买](https://varnexa.lingdongaff.com/#/?code=GvxuWp6C)** |
+| 29 | [**可信云**](https://jichanggithub.com/airports/kexin-cloud/) | ¥8 起 | IEPL专线 | `KX888` | ⭐⭐⭐ 2.9 | 待测 | **[立即购买](https://work.kosingaff.com/#/register?code=6PqaK0c5)** |
+| 30 | [**Firefly**](https://jichanggithub.com/airports/firefly/) | ¥25 起 | IPLC专线 | `firefly` | ⭐⭐⭐⭐ 4.2 | ✅ | **[立即购买](https://wep01.fireflyaff.com/#/?code=tVs0jv7h)** |
+| 31 | [**灵猫**](https://jichanggithub.com/airports/lingmao/) | ¥7.08 起 | 官方未标注 | — | ⭐⭐⭐ 2.8 | 待测 | **[立即购买](https://vip02.civetaff.com/#/?code=4uGIyOGG)** |
+| 32 | [**宇宙云**](https://jichanggithub.com/airports/yuzhou-cloud/) | ¥8 起 | IEPL/IPLC | `YUZHOU553` | ⭐⭐⭐ 2.9 | 待测 | **[立即购买](https://wzjc.yuzoucloud.cc/#/register?code=wosXpe6G)** |
+| 33 | [**二猫云**](https://jichanggithub.com/airports/ermao-cloud/) | ¥7.4 起 | 官方未标注 | `ERMAO888` | ⭐⭐⭐ 3.1 | 待测 | **[立即购买](https://wzjc.2maoyunaff.cc/#/register?code=KDo1GROz)** |
+| 34 | [**闪电鼠**](https://jichanggithub.com/airports/shandianshu/) | ¥8 起 | 官方未标注 | — | ⭐⭐⭐ 2.7 | 待测 | **[立即购买](https://a01vipaff.shandianshuaff.com/#/?code=ka7gAQDt)** |
 
 <details>
 <summary><b>📖 点开看：每家一句话短评</b></summary>
@@ -223,10 +223,10 @@
 
 - **晚高峰优先**：白天速度任何机场都好看，只有 20:00–23:00 的数据有意义
 - **来源标注**：每份测速报告都注明是**家宽实测**还是**运营方报告**，以及测试环境
-- **解锁逐项验证**：只标记「稳定可用」，偶尔能用的一律不算解锁
+- **解锁逐项列出**：状态来自各家报告或官方标称，不是本站逐项复测，官方没写的不替它补上
 - **每 GB 成本换算**：年付档折算月均后再比，不用「年付价冒充月付价」误导
-- **排位与评分分开**：前 7 位为合作推荐位，其余每月轮换，评分不随排位调整；本页链接为联盟链接（你的价格不变，我们获得少量佣金用于测速成本）
-- **没测过就写没测过**：未实测的机场标「待测」，线路与解锁按官方标称转述，不虚构数据
+- **排位与评分分开**：前 7 位为合作推荐位，其余每月轮换；除主推的一翻云由编辑给分外，评分都按六维权重算出，不随排位调整。本页链接为联盟链接（你的价格不变，我们获得少量佣金用于测速成本）
+- **没测过就写没测过**：还没有测速报告的机场标「待测」，线路与解锁按官方标称转述，不虚构数据
 
 ---
 
@@ -246,7 +246,7 @@
 
 本仓库内容仅供学习与技术研究参考，请遵守所在地区相关法律法规。
 本站不提供任何代理服务，所有服务由第三方提供，购买产生的纠纷与本站无关。
-部分链接为联盟推广链接，点击购买后本站将获得少量佣金，**不影响评分**。
+部分链接为联盟推广链接，点击购买后本站将获得少量佣金，用于维持测速成本。
 
 ⭐ 觉得有用的话，给个 Star 支持一下
 
