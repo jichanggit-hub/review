@@ -2,11 +2,11 @@
 
 # ✈️ GitHub 机场推荐 · 34 家速查表
 
-**晚高峰测速报告 · 流媒体解锁验证 · 优惠码直达 · 跑路黑名单**
+**测速报告 · 流媒体解锁档案 · 优惠码直达 · 跑路黑名单**
 
 排序规则公开 · 联盟关系公开披露 · 数据持续更新
 
-`最后更新：2026-11-02`
+`最后更新：2026-11-03`
 
 </div>
 
@@ -32,13 +32,13 @@
 
 | # | 机场 | 月均起价 | 线路 | 优惠码 | 评分 | 测速报告 | 购买 |
 |:-:|---|---|---|:-:|---|:-:|:-:|
-| 🥇 | [**一翻云**](https://jichanggithub.com/airports/yifan-cloud/) | ¥20 起 | IEPL专线 | `1FLYYUN` | ⭐⭐⭐⭐⭐ 4.9 | ✅ | **[立即购买](https://wzjc.1flyunaff.cc/#/register?code=JSuuoEmO)** |
-| 🥈 | [**飞猫云**](https://jichanggithub.com/airports/feimao-cloud/) | ¥7 起 | IEPL专线 | `flycat888` | ⭐⭐⭐⭐ 4.0 | ✅ | **[立即购买](https://flycat1.flycatvipaff.cc/#/?code=2WjSgNW2)** |
-| 🥉 | [**暮光加速**](https://jichanggithub.com/airports/muguang/) | ¥9.08 起 | BGP+专线 | `mm88` | ⭐⭐⭐ 2.9 | 待测 | **[立即购买](https://varnexa.twilightaff.com/#/?code=LiZd1DFa)** |
-| 4 | [**微风网络**](https://jichanggithub.com/airports/weifeng/) | ¥11.4 起 | 官方未标注 | — | ⭐⭐⭐⭐ 4.2 | 待测 | **[立即购买](https://edp01.breezenetaff.com/#/?code=mMbkSXpO)** |
-| 5 | [**大佬云**](https://jichanggithub.com/airports/dalao-cloud/) | ¥8 起 | 官方未标注 | `dly888` | ⭐⭐⭐ 2.8 | 待测 | **[立即购买](https://liu01.dalaoyunaff.com/#/?code=9f4rfwcE)** |
-| 6 | [**闪跃**](https://jichanggithub.com/airports/shanyue/) | ¥8 起 | IPLC专线 | `shanyue` | ⭐⭐⭐⭐ 4.2 | ✅ | **[立即购买](https://work01.flashleapaff.com/#/?code=kMf9cPrN)** |
-| 7 | [**跨界云**](https://jichanggithub.com/airports/kuajie-cloud/) | ¥20 起 | IPLC专线 | `kuajie` | ⭐⭐⭐⭐ 4.2 | ✅ | **[立即购买](https://jichangyyd.kuajieaff.com/#/?code=xy06L37U)** |
+| 推荐位 1 | [**一翻云**](https://jichanggithub.com/airports/yifan-cloud/) | ¥20 起 | IEPL专线 | `1FLYYUN` | ⭐⭐⭐⭐⭐ 4.9 | ✅ | **[立即购买](https://wzjc.1flyunaff.cc/#/register?code=JSuuoEmO)** |
+| 推荐位 2 | [**飞猫云**](https://jichanggithub.com/airports/feimao-cloud/) | ¥7 起 | IEPL专线 | `flycat888` | ⭐⭐⭐⭐ 4.0 | ✅ | **[立即购买](https://flycat1.flycatvipaff.cc/#/?code=2WjSgNW2)** |
+| 推荐位 3 | [**暮光加速**](https://jichanggithub.com/airports/muguang/) | ¥9.08 起 | BGP+专线 | `mm88` | ⭐⭐⭐ 2.9 | 待测 | **[立即购买](https://varnexa.twilightaff.com/#/?code=LiZd1DFa)** |
+| 推荐位 4 | [**微风网络**](https://jichanggithub.com/airports/weifeng/) | ¥11.4 起 | 官方未标注 | — | ⭐⭐⭐⭐ 4.2 | ✅ | **[立即购买](https://edp01.breezenetaff.com/#/?code=mMbkSXpO)** |
+| 推荐位 5 | [**大佬云**](https://jichanggithub.com/airports/dalao-cloud/) | ¥8 起 | 官方未标注 | `dly888` | ⭐⭐⭐ 2.8 | 待测 | **[立即购买](https://liu01.dalaoyunaff.com/#/?code=9f4rfwcE)** |
+| 推荐位 6 | [**闪跃**](https://jichanggithub.com/airports/shanyue/) | ¥8 起 | IPLC专线 | `shanyue` | ⭐⭐⭐⭐ 4.2 | ✅ | **[立即购买](https://work01.flashleapaff.com/#/?code=kMf9cPrN)** |
+| 推荐位 7 | [**跨界云**](https://jichanggithub.com/airports/kuajie-cloud/) | ¥20 起 | IPLC专线 | `kuajie` | ⭐⭐⭐⭐ 4.2 | ✅ | **[立即购买](https://jichangyyd.kuajieaff.com/#/?code=xy06L37U)** |
 | 8 | [**无忧机场**](https://jichanggithub.com/airports/wuyou/) | ¥6.58 起 | 官方未标注 | — | ⭐⭐⭐ 2.8 | 待测 | **[立即购买](https://wep01.worryfreeaff.com/#/?code=UfOPmZeS)** |
 | 9 | [**梯子云**](https://jichanggithub.com/airports/tizi-cloud/) | ¥7.42 起 | IEPL专线 | — | ⭐⭐⭐ 2.9 | 待测 | **[立即购买](https://varnexa.ladderaff.com/#/?code=0sdBdspN)** |
 | 10 | [**极连云**](https://jichanggithub.com/airports/jilian-cloud/) | ¥8 起 | IPLC专线 | `JILIAN666` | ⭐⭐⭐ 2.9 | 待测 | **[立即购买](https://kdjhao.jlyvipaff.com/#/?code=iVjSy3ku)** |
@@ -219,13 +219,13 @@
 
 ---
 
-## 📐 我们怎么测
+## 📐 数据怎么来
 
-- **晚高峰优先**：白天速度任何机场都好看，只有 20:00–23:00 的数据有意义
-- **来源标注**：每份测速报告都注明是**家宽实测**还是**运营方报告**，以及测试环境
+- **晚高峰优先**：白天速度任何机场都好看，20:00–23:00 的数据才有参考价值；不在这个时段的报告会注明
+- **来源标注**：每份测速报告都写明测试环境并注明不是本站独立测试；一翻云是家宽截图，跨界云、微风网络注明是运营方报告，其余未注明出具方
 - **解锁逐项列出**：状态来自各家报告或官方标称，不是本站逐项复测，官方没写的不替它补上
 - **每 GB 成本换算**：年付档折算月均后再比，不用「年付价冒充月付价」误导
-- **排位与评分分开**：前 7 位为合作推荐位，其余每月轮换；除主推的一翻云由编辑给分外，评分都按六维权重算出，不随排位调整。本页链接为联盟链接（你的价格不变，我们获得少量佣金用于测速成本）
+- **排位与评分分开**：前 7 位为合作推荐位，其余每月轮换；除主推的一翻云由编辑给分外，评分都按六维权重算出，不随排位调整。本页链接为联盟链接（你的价格不变，我们获得少量佣金用于站点运营）
 - **没测过就写没测过**：还没有测速报告的机场标「待测」，线路与解锁按官方标称转述，不虚构数据
 
 ---
@@ -246,7 +246,7 @@
 
 本仓库内容仅供学习与技术研究参考，请遵守所在地区相关法律法规。
 本站不提供任何代理服务，所有服务由第三方提供，购买产生的纠纷与本站无关。
-部分链接为联盟推广链接，点击购买后本站将获得少量佣金，用于维持测速成本。
+部分链接为联盟推广链接，点击购买后本站将获得少量佣金，用于维持站点运营。
 
 ⭐ 觉得有用的话，给个 Star 支持一下
 
